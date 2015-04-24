@@ -1,0 +1,93 @@
+[13-Apr-2015 14:03:19 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/mfiorg/public_html/webinar/thank-you.php on line 141
+[13-Apr-2015 14:17:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/mfiorg/public_html/webinar/thank-you.php on line 148
+[13-Apr-2015 15:03:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mfiorg/public_html/webinar/thank-you.php on line 39
+[13-Apr-2015 16:03:44 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/mfiorg/public_html/webinar/thank-you.php on line 160
+[13-Apr-2015 16:04:17 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/mfiorg/public_html/webinar/thank-you.php on line 160
+[13-Apr-2015 16:04:33 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/mfiorg/public_html/webinar/thank-you.php on line 160
+[13-Apr-2015 16:05:06 America/New_York] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/mfiorg/public_html/webinar/thank-you.php on line 160
+[13-Apr-2015 15:08:24 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTimeZone::__construct() [<a href='datetimezone.--construct'>datetimezone.--construct</a>]: Unknown or bad timezone (America/NewYork)' in /home/mfiorg/public_html/webinar/thank-you.php:32
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(32): DateTimeZone->__construct('America/NewYork')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 32
+[15-Apr-2015 10:53:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern) EST) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern) EST')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 10:54:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern) EST) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern) EST')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 10:57:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern) EST) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern) EST')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:05:45 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern) EST) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern) EST')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:05:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern) EST) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern) EST')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:05:53 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern) EST) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern) EST')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:07:01 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM(Eastern)) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('PM(Eastern)')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:09:06 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/mfiorg/public_html/webinar/thank-you.php on line 153
+[15-Apr-2015 11:11:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (12:00(Eastern) EST) at position 5 ((): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('12:00(Eastern) ...')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:11:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (12:00(Eastern) EST) at position 5 ((): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('12:00(Eastern) ...')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:11:12 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (12:00(Eastern) EST) at position 5 ((): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you.php:33
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you.php(33): DateTime->__construct('12:00(Eastern) ...')
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you.php on line 33
+[15-Apr-2015 11:11:41 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/mfiorg/public_html/webinar/thank-you.php on line 153
+[16-Apr-2015 15:24:52 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/mfiorg/public_html/webinar/thank-you.php on line 50
+[16-Apr-2015 15:24:52 America/Chicago] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/mfiorg/public_html/webinar/thank-you.php on line 50
+[21-Apr-2015 15:14:49 America/Chicago] PHP Fatal error:  Call to a member function setTimezone() on a non-object in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 33
+[21-Apr-2015 15:16:08 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string ($webinarStartTime . $webinarStartTimeMeridiem) at position 0 ($): Unexpected character' in /home/mfiorg/public_html/webinar/thank-you-for-registering.php:32
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you-for-registering.php(32): DateTime->__construct('$webinarStartTi...', Object(DateTimeZone))
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 32
+[21-Apr-2015 15:22:38 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you-for-registering.php:32
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you-for-registering.php(32): DateTime->__construct('PM', Object(DateTimeZone))
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 32
+[21-Apr-2015 15:22:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you-for-registering.php:32
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you-for-registering.php(32): DateTime->__construct('PM', Object(DateTimeZone))
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 32
+[21-Apr-2015 15:23:21 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you-for-registering.php:32
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you-for-registering.php(32): DateTime->__construct('PM', Object(DateTimeZone))
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 32
+[21-Apr-2015 15:23:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() [<a href='datetime.--construct'>datetime.--construct</a>]: Failed to parse time string (PM) at position 0 (P): The timezone could not be found in the database' in /home/mfiorg/public_html/webinar/thank-you-for-registering.php:32
+Stack trace:
+#0 /home/mfiorg/public_html/webinar/thank-you-for-registering.php(32): DateTime->__construct('PM', Object(DateTimeZone))
+#1 {main}
+  thrown in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 32
+[21-Apr-2015 15:38:20 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/mfiorg/public_html/webinar/thank-you-for-registering.php on line 179

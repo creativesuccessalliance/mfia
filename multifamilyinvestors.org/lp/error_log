@@ -1,0 +1,14 @@
+[18-Dec-2014 08:05:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/mfiorg/public_html/lp/index.php on line 1
+[18-Dec-2014 08:05:26 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/mfiorg/public_html/lp/index.php on line 1
+[22-Dec-2014 07:53:27 America/Chicago] PHP Warning:  include(includes/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/lp/index.php on line 3
+[22-Dec-2014 07:53:27 America/Chicago] PHP Warning:  include(includes/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/lp/index.php on line 3
+[22-Dec-2014 07:53:27 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/lp/index.php on line 3
+[22-Dec-2014 07:53:32 America/Chicago] PHP Warning:  include(includes/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/lp/index.php on line 3
+[22-Dec-2014 07:53:32 America/Chicago] PHP Warning:  include(includes/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/lp/index.php on line 3
+[22-Dec-2014 07:53:32 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/lp/index.php on line 3
+[22-Dec-2014 08:52:52 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mfiorg/public_html/lp/index.php on line 1
+[22-Dec-2014 08:52:53 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mfiorg/public_html/lp/index.php on line 1
+[22-Dec-2014 08:52:53 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mfiorg/public_html/lp/index.php on line 1
+[22-Dec-2014 08:53:02 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/mfiorg/public_html/lp/includes/header.php on line 1
+[22-Dec-2014 08:53:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/mfiorg/public_html/lp/includes/header.php on line 1
+[22-Dec-2014 08:53:04 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home/mfiorg/public_html/lp/includes/header.php on line 1

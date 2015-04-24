@@ -1,0 +1,195 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  background: url(http://subtlepatterns.com/patterns/debut_light.png) repeat;
+}
+
+header {
+  padding: 10px 0;
+  background: #fff;
+}
+
+#call-to-action-section {
+  background: url(../img/cta-bg.png) center center;
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 40px;
+  position: relative;
+}
+
+#call-to-action-section h1 {font-size: 48px; font-weight: 700; font-family: 'MinionPro', 'Minion Pro', Georgia, 'Times New Roman', Times, serif; line-height: 1}
+#call-to-action-section h2 {font-size: 22px; font-weight: 400;}
+
+.dashed { border-top: dotted #eee 2px; margin-top: 35px; margin-bottom: 35px;}
+
+
+#call-to-action-section ul li {
+  font-size: 20px;
+line-height: 1.2;
+margin-bottom: 15px;
+}
+
+#call-to-action-section ul.fa-ul {
+  margin-left: 3.3em;
+}
+
+#call-to-action-section ul li i.fa-li { 
+left: -1.7em;
+width: 2em;}
+
+#call-to-action-section:after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  border-top: 20px solid #0088C3; /* default color */
+  border-right: 20px solid transparent;
+  border-left: 20px solid transparent;
+  height: 0;
+  width: 0;
+}
+
+
+.container-white,.container-white-first { line-height: 26px; background: #fff; padding: 20px 40px; border: 1px solid #ddd;}
+
+
+.container-white-first { margin-top: 0px; border-radius: 0 0 10px 10px; border-top: none;}
+
+.container-white { border-radius: 10px; margin-top: 20px; }
+
+#content-section ul li {
+margin: 0;
+padding: 30px;
+padding-left: 0px;
+list-style-type: none;
+border-bottom: 1px dashed #e3e3e3;
+display: table;
+vertical-align: middle;
+}
+
+
+
+#content-section ul li:last-child {
+border-bottom: none;}
+
+#content-section ul li p {
+width: 95%;
+display: table-cell;
+vertical-align: middle;
+padding-left: 20px;
+}
+
+
+.cta-button {
+  margin-top: 30px;
+  padding: 18px 0 15px 0;
+text-align: center;
+border-bottom: 2px solid #ff9900;
+border-top: 0;
+border-right: 0;
+border-left: 0;
+border-radius: 6px;
+font-size: 28px;
+color: #806208;
+font-weight: 700;
+background-color: #ffcc33;
+text-decoration: none;
+white-space: normal;
+}
+
+.cta-button:hover, .cta-button:active {color: #B88F0D;}
+.cta-button:focus { color: #806208;}
+
+
+.cta-disclaimer { font-size: 14px; margin-top: 5px; line-height: 23px}
+
+.cta-disclaimer img { margin-top: -5px;}
+
+.number-seven {font-size: 100px; color: #ccc}
+
+.fa-quote-left, .fa-quote-right { color: #ddd;}
+
+.cta-button .fa {
+    display: inline;
+}
+
+#opt-in .modal-header {
+    position: relative;
+    background: #ECF2F4;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.modal-body { padding: 15px 40px;}
+
+.mynewclassclose {
+    position: absolute;
+    margin: 0;
+    top: -19px; /* half height of "X" image, just for nice placing*/
+    right: -19px; /* half width of "X" image, just for nice placing*/
+    opacity: 0.9;
+}
+
+.mynewclassclose:hover {
+    opacity: 1;
+}
+
+.modal-lg {
+  max-width: 760px;
+}
+
+.form-control { border: 1px solid #e5e5e5;
+border-radius: 0;
+-webkit-box-shadow: none;
+box-shadow: none;}
+
+
+
+footer {
+  background: #fff;
+  border-top: 1px solid #ddd;
+  padding: 40px 0;
+  color: #666;
+  font-weight: 300;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+  /* Custom, iPhone Retina */ 
+  @media only screen and (min-width : 320px) {
+.number-seven {margin: 25px 10px 60px 0;}
+  }
+
+  /* Extra Small Devices, Phones */ 
+  @media only screen and (min-width : 480px) {
+
+     
+
+  }
+
+  /* Small Devices, Tablets */
+  @media only screen and (min-width : 768px) {
+ 
+  }
+
+  /* Medium Devices, Desktops */
+  @media only screen and (min-width : 992px) {
+.number-seven {margin: 20px 10px 0 0;}
+
+  }
+
+  /* Large Devices, Wide Screens */
+  @media only screen and (min-width : 1200px) {
+     .container-button {padding: 40px 0;}
+    
+
+  }

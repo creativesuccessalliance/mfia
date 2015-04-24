@@ -1,0 +1,12 @@
+Redirect 301 /funnel/index.php /lp/training-course.php
+Redirect 301 /funnel/oto.php /oto/bus-tour.php
+Redirect 301 /funnel/upsell.php /ups/underwriting-template.php
+Redirect 301 /funnel/webinar.php /webinar/registration.php
+Redirect 301 /funnel/thank-you.php /thank-you.php
+Redirect 301 /webinar/register.php http://www.onlinemeetingnow.com/register/?id=u1zftb9uwg
+
+#link is used in the 27 ways report
+Redirect 301 /advanced-training http://www.onlinemeetingnow.com/register/?id=u1zftb9uwg
+
+
+ErrorDocument 404 /404.html

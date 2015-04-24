@@ -1,0 +1,14 @@
+[10-Apr-2014 14:32:24 UTC] PHP Notice:  Undefined index: invoiceId in /home/usreales/public_html/a3xcz/DisplayForm.php on line 50
+[10-Apr-2014 14:32:24 UTC] PHP Notice:  Undefined variable: token in /home/usreales/public_html/a3xcz/DisplayForm.php on line 228
+[10-Apr-2014 14:32:34 UTC] PHP Notice:  Undefined index: confirm in /home/usreales/public_html/a3xcz/DisplayForm.php on line 56
+[10-Apr-2014 14:32:34 UTC] PHP Notice:  Undefined index: refund in /home/usreales/public_html/a3xcz/DisplayForm.php on line 216
+[10-Apr-2014 14:32:34 UTC] PHP Notice:  Undefined index: refund in /home/usreales/public_html/a3xcz/DisplayForm.php on line 223
+[10-Apr-2014 14:32:44 UTC] PHP Notice:  Undefined variable: token in /home/usreales/public_html/a3xcz/DisplayForm.php on line 228
+[10-Apr-2014 14:33:43 UTC] PHP Notice:  Undefined variable: token in /home/usreales/public_html/a3xcz/DisplayForm.php on line 228
+[10-Apr-2014 14:35:04 UTC] PHP Notice:  Undefined index: confirm in /home/usreales/public_html/a3xcz/DisplayForm.php on line 56
+[10-Apr-2014 14:35:05 UTC] PHP Notice:  Undefined index: refund in /home/usreales/public_html/a3xcz/DisplayForm.php on line 216
+[10-Apr-2014 14:35:05 UTC] PHP Notice:  Undefined index: refund in /home/usreales/public_html/a3xcz/DisplayForm.php on line 223
+[10-Apr-2014 14:35:10 UTC] PHP Notice:  Undefined index: refund in /home/usreales/public_html/a3xcz/DisplayForm.php on line 82
+[10-Apr-2014 14:35:11 UTC] PHP Notice:  Undefined variable: token in /home/usreales/public_html/a3xcz/DisplayForm.php on line 228
+[30-Apr-2014 01:49:20 UTC] [1398822560] Need to identify first ( KM::identify(<user>) )
+[30-Apr-2014 01:50:07 UTC] [1398822607] Need to identify first ( KM::identify(<user>) )

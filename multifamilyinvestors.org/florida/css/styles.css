@@ -1,0 +1,146 @@
+body { font-family: 'Source Sans Pro', sans-serif; padding-bottom: 20px; color: #000; background: #fff url(../img/bg.png) no-repeat center top fixed; background-size: cover; }
+
+/* Typography */
+h1,h2,h3 { font-weight: 600; }
+
+/* Header */
+header h1 { font-size: 42px; }
+header h2 { color: #24a5ee; }
+
+ .navbar { background: #fff; padding: 5px; font-family: 'Roboto', sans-serif; border-radius: 0; /* override bootstrap */ margin-bottom: 0; /* override bootstrap */}
+.navbar-logo {
+  
+}
+
+.navbar-nav { margin-top: 10px}
+
+.navbar-nav > li {
+  display: inline-block;
+}
+.navbar-nav > li + li {
+  margin-left: 20px;
+}
+.navbar-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #444; /* IE8 proofing */
+  color: rgba(68,68,68,1);
+}
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+  color: #999;
+  background-color: transparent;
+
+}
+.navbar-nav > .active > a,
+.navbar-nav > .active > a:hover,
+.navbar-nav > .active > a:focus {
+  color: #fff;
+  border-bottom-color: #ccc;
+}
+
+@media (min-width: 768px) {
+  .navbar-logo {
+    float: left;
+  }
+  .navbar-nav {
+    float: right;
+  }
+}
+
+/* Containers */
+.container-video,.container-white { font-size: 18px; border: 1px solid #9db0bb; border-radius: 10px; background-color: #fff; box-shadow: 1px 2px 3px 0 #9db0bb; }
+.container-video { padding: 20px; }
+.container-white { padding: 20px 40px; }
+
+.container-btn { padding: 40px 0; }
+.container-btn small { color: #000; text-shadow: none; }
+
+.meet-dave-section { font-size: 16px; padding: 15px; text-align: left; border: 1px dashed #ccc; background-color: #f6f6f6; }
+
+/* Ticket Page */
+.ticket { position: relative; width: 1024px; height: 390px; margin: 40px auto; }
+.ticket img { border: dashed 3px #000; }
+.ticket .date { font-size: 50px; font-weight: 400; position: absolute; z-index: 20; top: 40px; left: 110px; letter-spacing: -1px; color: #000; }
+.ticket .dateside { font-size: 26px; font-weight: 400; position: absolute; z-index: 10; top: 0; right: -130px; height: 390px; -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); -ms-transform: rotate(-90deg); -o-transform: rotate(-90deg); text-align: center; letter-spacing: -1px; filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); }
+.ticket .time { font-size: 24px; position: absolute; z-index: 10; top: 110px; left: 110px; color: #000; }
+.ticket .addr { font-size: 30px; position: absolute; z-index: 10; bottom: 60px; left: 110px; }
+.ticket .barcode { position: absolute; z-index: 10; top: 0; right: -260px; height: 390px; -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); -ms-transform: rotate(-90deg); -o-transform: rotate(-90deg); filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); }
+
+/* Footer */
+footer { padding-top: 10px; color: #78858b; }
+
+/* Register Button */
+a.btn-register { font-size: 32px; font-weight: 600; white-space: normal; color: #fff; border-width: 1px; border-style: solid; border-color: #e39304; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffc930), color-stop(100%, #ffa403)); background: -moz-linear-gradient(center top, #ffc930 0%, #ffa403 100%); -webkit-box-shadow: 1px 1px 2px #e6e6e6, .5px 1px #ffd96f inset; -moz-box-shadow: 1px 1px 2px #e6e6e6, .5px 1px #ffd96f inset; box-shadow: 1px 1px 2px #e6e6e6, .5px 1px #ffd96f inset; text-shadow: 1px 1px 1px #865b00; min-height: 75px; line-height: 75px }
+a.btn-register:hover { -webkit-transition: all .1s ease-in-out; -moz-transition: all .1s ease-in-out; -o-transition: all .1s ease-in-out; transition: all .1s ease-in-out; color: #f6f6f6; border-color: #e39304; background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffd766), color-stop(100%, #ffa403)); background: -moz-linear-gradient(center top, #ffd766 0%, #ffa403 100%); }
+
+/* Bootstrap Modifications */
+input.form-control { font-size: 16px; height: 40px; margin-bottom: 5px; }
+.tooltip-inner { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 10px; text-align: left; }
+.tooltip-inner strong { font-size: 14px; }
+
+/* Font-Awesome Modifications */
+#testimonials .fa { display: inline; }
+.fa-stack { font-size: 18px; line-height: 1.2em; width: 1em; height: 1.2em; }
+.fa-stack-2x { font-size: 20px; color: #eee; }
+.fa-stack-1x { font-size: 16px; color: #ccc; }
+
+/* Form Validation */
+input.parsley-success,textarea.parsley-success { color: #468847; border: 1px solid #d6e9c6; background-color: #dff0d8; }
+input.parsley-error,textarea.parsley-error { color: #b94a48; border: 1px solid #eed3d7; background-color: #f2dede; }
+ul.parsley-errors-list { font-size: 12px; margin: 2px; padding: 0; list-style-type: none; }
+ul.parsley-errors-list li { line-height: 12px; color: #a94442; }
+
+.checkbox { margin-top: 0; margin-bottom: 15px; }
+.checkbox .checkbox-label { font-size: 16px; }
+
+.alert-guest-email {font-size: 14px; line-height: 1; margin-top: 10px}
+
+/* Responsive Google Map Embed */
+.map { position: relative; overflow: hidden; height: 0; padding-bottom: 25%; }
+.map iframe { position: absolute; top: 0; left: 0; width: 100% !important; height: 100% !important; pointer-events: none; }
+
+/* Media Queries
+======================================================= */
+
+/* Print Styles */
+@media screen {
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; }}
+  .fade-in { animation: fadeIn ease-in 1; animation-duration: .5s; animation-delay: 1s; opacity: 0; animation-fill-mode: forwards; }
+}
+
+/* Print Styles */
+@media print {
+  #print-container p { font-size: 20px; }
+}
+
+/* Customize container */
+@media (min-width:768px) {
+  .container { max-width: 760px; }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width:320px) {
+  .container-video,.container-white,.container-btn { margin-right: 15px; margin-left: 15px; }
+  .testimonial-picture { display: block; margin: 0 auto; }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width:480px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width:768px) {
+  .container-video,.container-white,.container-btn { margin-right: auto; margin-left: auto; }
+  .testimonial-picture { display: inline; margin-left: 10px; }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width:992px) {
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width:1200px) {
+}

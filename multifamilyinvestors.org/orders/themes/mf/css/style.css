@@ -1,0 +1,163 @@
+body {
+	background:url(../img/bg.jpg) no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	font-family:'Open Sans',sans-serif
+}
+
+h1, h2, h3, h4 {font-family: 'Roboto', sans-serif; font-weight: 700}
+
+header {
+border-bottom:1px solid #ccc;
+background:#fff;
+-webkit-box-shadow:2px 2px 15px 0 rgba(50,50,50,0.1);
+-moz-box-shadow:2px 2px 15px 0 rgba(50,50,50,0.1);
+box-shadow:2px 2px 15px 0 rgba(50,50,50,0.1);
+}
+
+.logo {
+display:inherit;
+padding:5px 0 10px;
+}
+
+/* Containers */
+.container.form {
+	margin-top:30px;
+	border-radius:8px;
+	background:#fff;
+	-webkit-box-shadow:2px 2px 15px 0 rgba(50,50,50,0.5);
+	-moz-box-shadow:2px 2px 15px 0 rgba(50,50,50,0.5);
+	box-shadow:2px 2px 15px 0 rgba(50,50,50,0.5);
+	font-size:18px
+}
+
+.disclaimer {
+	margin-bottom: 20px;
+	padding: 15px;
+	border: 1px dashed #ccc;
+	border-radius: 4px;
+	background-color: #fcf8e3;
+	color: #8a6d3b
+}
+
+/* Global Classes */
+.img-center { margin:0 auto }
+.img-left { float:left; padding-right:20px }
+.img-right { float:right; padding-left:20px }
+
+/* Panel Modifications */
+.panel { border:none }
+.panel-body { border:1px solid #ddd }
+.panel-primary { border-color:#ddd; background-color:#f5f5f5 }
+.panel-primary > .panel-heading { border-bottom:1px solid #163460; background-color:#163460 }
+.panel-heading.first { border-radius:0px }
+.panel-title { font-size:20px }
+
+/* Testimonials */
+.testimonial,.testimonial-first { float:left; margin-top:20px; padding:20px 25px; border-radius:8px; background-color:#B4D8EA; color:#000; font-style:italic; font-size:14px }
+.testimonial-first { margin-top:0 }
+.author-wrapper { float:left; margin-bottom:20px; width:100% }
+.arrow { float:left; margin-left:25px; width:0; height:0; border-top:30px solid #B4D8EA; border-right:0 solid transparent; border-left:30px solid transparent }
+.testimonial-name { float:left; margin:0 8px; padding-top:5px; color:#000; font-style:italic; font-size:16px }
+i.fa-quote-left,i.fa-quote-right { font-style:italic }
+
+/* Lists */
+ul.check-mark-list { margin:0; padding:0; list-style-type:none }
+ul.check-mark-list li { margin-top:10px; padding-left:35px; min-height:27px; background-image:url(../img/check-mark.png); background-size:27px 25px; background-repeat:no-repeat }
+
+/* Form Validation */
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success { color: #468847; background-color: #DFF0D8; border: 1px solid #D6E9C6; }
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error { color: #B94A48; background-color: #F2DEDE; border: 1px solid #EED3D7; }
+.parsley-errors-list { color: #a94442; font-size: 12px !important; margin: 2px 0 3px; padding: 0; list-style-type: none; font-size: 0.9em; line-height: 0.9em; opacity: 0; transition: all .3s ease-in; -o-transition: all .3s ease-in; -moz-transition: all .3s ease-in; -webkit-transition: all .3s ease-in; }
+.parsley-errors-list.filled { opacity: 1; }
+
+/* Change Placeholder Color on Error */
+input.parsley-error::-webkit-input-placeholder {
+   color: #a94442 !important;
+}
+
+input.parsley-error:-moz-placeholder { /* Firefox 18- */
+   color: #a94442 !important;
+}
+
+input.parsley-error::-moz-placeholder {  /* Firefox 19+ */
+   color: #a94442 !important;
+}
+
+input.parsley-error:-ms-input-placeholder {  
+   color: #a94442 !important;
+}
+
+.mynewclassclose {
+    position: absolute;
+    margin: 0;
+    top: -19px; /* half height of "X" image, just for nice placing*/
+    right: -19px; /* half width of "X" image, just for nice placing*/
+    opacity: 0.9;
+}
+
+.mynewclassclose:hover {
+    opacity: 1;
+}
+
+
+/* Timer */
+#timer { color:#d90000 }
+.timer-container { margin-top:20px; font-weight:700; font-size:20px }
+
+/* Footer */
+footer { padding-top:20px; color:#fff; text-shadow:1px 1px 1px #000 }
+
+/* Spin Animation */
+@-webkit-keyframes spin {
+	from {
+		-webkit-transform: rotate(0deg);
+	}
+	to {
+		-webkit-transform: rotate(360deg);
+	}
+}
+
+@-moz-keyframes spin {
+	from {
+		-moz-transform: rotate(0deg);
+	}
+	to {
+		-moz-transform: rotate(360deg);
+	}
+}
+
+@-ms-keyframes spin {
+	from {
+		-ms-transform: rotate(0deg);
+	}
+	to {
+		-ms-transform: rotate(360deg);
+	}
+}
+
+.spin {
+	-webkit-animation-name: spin; 
+	-webkit-animation-duration: 40000ms; /* 40 seconds */
+	-webkit-animation-iteration-count: infinite; 
+	-webkit-animation-timing-function: linear;
+	
+	-moz-animation-name: spin; 
+	-moz-animation-duration: 40000ms; /* 40 seconds */
+	-moz-animation-iteration-count: infinite; 
+	-moz-animation-timing-function: linear;
+		
+	-ms-animation-name: spin; 
+	-ms-animation-duration: 40000ms; /* 40 seconds */
+	-ms-animation-iteration-count: infinite; 
+	-ms-animation-timing-function: linear;
+			
+	/* boooo opera */
+	-o-transition: rotate(3600deg); /* works */
+}

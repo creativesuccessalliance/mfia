@@ -1,0 +1,61 @@
+[30-Oct-2014 05:52:20 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/mfiorg/public_html/actions/los-angeles.php on line 53
+[30-Oct-2014 05:58:48 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/mfiorg/public_html/actions/los-angeles.php on line 53
+[30-Oct-2014 05:59:13 America/Chicago] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/mfiorg/public_html/actions/los-angeles.php on line 70
+[30-Oct-2014 06:00:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/mfiorg/public_html/actions/los-angeles.php on line 78
+[30-Oct-2014 06:00:51 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mfiorg/public_html/actions/los-angeles.php on line 85
+[30-Oct-2014 06:06:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mfiorg/public_html/actions/los-angeles.php:6) in /home/mfiorg/public_html/actions/los-angeles.php on line 95
+[30-Oct-2014 06:07:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mfiorg/public_html/actions/los-angeles.php:6) in /home/mfiorg/public_html/actions/los-angeles.php on line 95
+[30-Oct-2014 06:07:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mfiorg/public_html/actions/los-angeles.php:6) in /home/mfiorg/public_html/actions/los-angeles.php on line 95
+[30-Oct-2014 06:13:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mfiorg/public_html/actions/los-angeles.php on line 105
+[30-Oct-2014 06:13:50 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/mfiorg/public_html/actions/los-angeles.php on line 109
+[30-Oct-2014 06:14:12 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/mfiorg/public_html/actions/los-angeles.php on line 106
+[30-Oct-2014 06:20:10 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mfiorg/public_html/actions/los-angeles.php on line 96
+[30-Oct-2014 09:00:05 America/Chicago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ']' in /home/mfiorg/public_html/actions/los-angeles.php on line 80
+[04-Dec-2014 10:58:49 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/mfiorg/public_html/actions/florida.php on line 42
+[12-Jan-2015 14:57:26 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/mfiorg/public_html/losangeles/actions/florida.php on line 19
+[12-Jan-2015 14:57:56 America/Chicago] PHP Warning:  require_once(../src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/losangeles/actions/florida.php on line 4
+[12-Jan-2015 14:57:56 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/losangeles/actions/florida.php on line 4
+[14-Jan-2015 08:29:51 America/Chicago] PHP Warning:  require_once(../../src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:29:51 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:31:23 America/Chicago] PHP Warning:  require_once(../../src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:31:23 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:31:30 America/Chicago] PHP Warning:  require_once(../../src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:31:30 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:31:32 America/Chicago] PHP Warning:  require_once(../../src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:31:32 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:32:04 America/Chicago] PHP Warning:  require_once(../infusion/src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[14-Jan-2015 08:32:04 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../infusion/src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/events/actions/register-guest.php on line 4
+[15-Jan-2015 14:25:08 America/Chicago] PHP Warning:  require_once(../infusion/src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/mfia/actions/register-guest.php on line 4
+[15-Jan-2015 14:25:08 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../infusion/src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/mfia/actions/register-guest.php on line 4
+[03-Mar-2015 14:33:01 America/Chicago] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)' in /home/mfiorg/public_html/infusion/src/isdk.php:78
+Stack trace:
+#0 /home/mfiorg/public_html/mfia/actions/register-guest.php(31): iSDK->cfgCon('contactform')
+#1 {main}
+  thrown in /home/mfiorg/public_html/infusion/src/isdk.php on line 78
+[03-Mar-2015 14:33:22 America/Chicago] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)' in /home/mfiorg/public_html/infusion/src/isdk.php:78
+Stack trace:
+#0 /home/mfiorg/public_html/mfia/actions/register-guest.php(31): iSDK->cfgCon('contactform')
+#1 {main}
+  thrown in /home/mfiorg/public_html/infusion/src/isdk.php on line 78
+[03-Mar-2015 14:46:18 America/Chicago] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)' in /home/mfiorg/public_html/infusion/src/isdk.php:78
+Stack trace:
+#0 /home/mfiorg/public_html/mfia/actions/register-guest.php(31): iSDK->cfgCon('contactform')
+#1 {main}
+  thrown in /home/mfiorg/public_html/infusion/src/isdk.php on line 78
+[03-Mar-2015 14:46:46 America/Chicago] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)' in /home/mfiorg/public_html/infusion/src/isdk.php:78
+Stack trace:
+#0 /home/mfiorg/public_html/mfia/actions/register-guest.php(31): iSDK->cfgCon('contactform')
+#1 {main}
+  thrown in /home/mfiorg/public_html/infusion/src/isdk.php on line 78
+[03-Mar-2015 14:47:30 America/Chicago] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)' in /home/mfiorg/public_html/infusion/src/isdk.php:78
+Stack trace:
+#0 /home/mfiorg/public_html/mfia/actions/register-guest.php(31): iSDK->cfgCon('contactform')
+#1 {main}
+  thrown in /home/mfiorg/public_html/infusion/src/isdk.php on line 78
+[03-Mar-2015 14:48:43 America/Chicago] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support ( ext. 2)' in /home/mfiorg/public_html/infusion/src/isdk.php:78
+Stack trace:
+#0 /home/mfiorg/public_html/mfia/actions/register-guest.php(31): iSDK->cfgCon('contactform')
+#1 {main}
+  thrown in /home/mfiorg/public_html/infusion/src/isdk.php on line 78
+[18-Mar-2015 10:50:47 America/Chicago] PHP Warning:  require_once(../../infusion/src/isdk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mfiorg/public_html/philadelphia/actions/register-guest.php on line 4
+[18-Mar-2015 10:50:47 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../infusion/src/isdk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mfiorg/public_html/philadelphia/actions/register-guest.php on line 4

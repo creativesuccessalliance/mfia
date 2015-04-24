@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"true"
+			],
+			[
+				"webinarStartTim",
+				"webinarStartTimeMeridiem"
+			],
+			[
+				"datetime",
+				"datetime"
+			],
+			[
+				"webinar",
+				"webinarOrganizer"
+			],
+			[
+				"webin",
+				"webinarDate2"
+			],
+			[
+				"we",
+				"webinarStartTime"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "registration/thanks.php",
+			"settings":
+			{
+				"buffer_size": 6994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webinar/thank-you-for-registering.php",
+			"settings":
+			{
+				"buffer_size": 9503,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar"
+	],
+	"file_history":
+	[
+		"/Users/jwilliams/Desktop/Web/angular-phonecat/app/index.html",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/illinois/index.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/header.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar/thank-you.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/orders/online-training.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar/online-training-thanks.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/registration/actions/register-guest.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/registration/register-guest.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/registration/register.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/illinois/header.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/chicago/index.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/chicago/header.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar/css/style.css",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar/css/addthisevent.theme5.css",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar/style.css",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/webinar/styles.css",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/california/index.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/events/print.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/california/header.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/registration/thanks.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/registration/thanks-guest.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/philadelphia/index.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/california/register.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/california/thanks.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/index.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/philadelphia/actions/register-guest.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/philadelphia/register-guest.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/philadelphia/thanks.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/philadelphia/register.php",
+		"/Users/jwilliams/Desktop/Web/multifamilyinvestors.org/philadelphia/header.php",
+		"/Users/jwilliams/Desktop/Web/creativesuccessalliance.com/projectx/sidebar-entry.php",
+		"/Users/jwilliams/Desktop/Web/creativesuccessalliance.com/projectx/actionbar.php",
+		"/Users/jwilliams/Desktop/Web/creativesuccessalliance.com/projectx/index.php",
+		"/Users/jwilliams/Desktop/Web/creativesuccessalliance.com/projectx/assets/css/variables.css",
+		"/Users/jwilliams/Desktop/Web/creativesuccessalliance.com/projectx/assets/less/variables.less",
+		"/Users/jwilliams/Desktop/Web/creativesuccessalliance.com/projectx/assets/less/projectx.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cookies",
+			"plan",
+			"main",
+			"register.php?",
+			"Auto Populate",
+			"<i class=\"pull-right ",
+			" <i class=\"pull-right fa fa-pencil-square-o\"></i></a></li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"registration/register.php?",
+			"Auto",
+			"<i class=\"",
+			"</a></li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "registration/thanks.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1851,
+								1851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webinar/thank-you-for-registering.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9446,
+								9446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mfia.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
